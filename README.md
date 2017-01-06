@@ -69,7 +69,7 @@ ___斜體加粗___
 [測試網址（點擊此連結）](https://rshihkaid.github.io/markdownTest/)
 
 以下為markdown的測試內容
-(測試js出自[marked](https://github.com/chjj/marked))
+測試js出自[marked.js](https://github.com/chjj/marked)
 ---
 
 	# An exhibit of Markdown
