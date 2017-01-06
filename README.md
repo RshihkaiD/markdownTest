@@ -10,16 +10,28 @@
 	#### 標題四
 	##### 標題五
 ---
+#粗體
+**粗體**
+<pre><code>
+**粗體**
+or
+__粗體__
+</code></pre>
+---
 #斜體
 _斜體_
 <pre><code>
-_ 斜體 _
+_斜體_
+or
+*斜體*
 </code></pre>
 ---
 #斜體加粗
 ***斜體加粗***
 <pre><code>
-*** 斜體加粗 ***
+***斜體加粗***
+or
+___斜體加粗___
 </code></pre>
 ---
 #刪除號
@@ -46,9 +58,18 @@ _ 斜體 _
 ---
 </code></pre>
 ---
+#列表
+* 列表一
+* 列表二
+```
+* 列表一
+* 列表二
+```
+---
 [測試網址（點擊此連結）](https://rshihkaid.github.io/markdownTest/)
 
-以下為測試內容
+以下為markdown的測試內容
+(測試js出自[marked](https://github.com/chjj/marked))
 ---
 
 	# An exhibit of Markdown
