@@ -1,5 +1,5 @@
 # It's a markdown Sample
-
+[test page(click me)](https://rshihkaid.github.io/markdownTest/)
 ---
 
 	# An exhibit of Markdown
