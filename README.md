@@ -16,22 +16,20 @@ _斜體_
 _ 斜體 _
 </code></pre>
 ---
----
 #斜體加粗
 ***斜體加粗***
 <pre><code>
 *** 斜體加粗 ***
 </code></pre>
 ---
----
 #無數列清單
 * 清單一
 * 清單二
 * 清單三
 <pre><code>
-*  清單一
-*  清單二
-*  清單三
+	* 清單一
+	* 清單二
+	* 清單三
 </code></pre>
 [test page(click me)](https://rshihkaid.github.io/markdownTest/)
 
