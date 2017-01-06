@@ -6,33 +6,42 @@
     <title>test</title>
 </head>
 <style type="text/css" media="screen">
-	.testStyle h1{
-		color: #d60;
-	}
-	.testStyle h2{
-		color: #f90;
-	}
-	.testStyle h3{
-		color: #780;
-	}
-	.testStyle p{
-		color: #660;
-	}
-	.testStyle ul li,
-	.testStyle ol li{
-		color: #450;
-	}
-	.testStyle a{
-		color: #310;
-		text-decoration: none;
-	}
-	.testStyle a:hover{
-		color: #ccc;
-	}
-	.testStyle code{
-		padding: 10px 5px;
-		background-color: #e0e0e0;
-	}
+/* test style*/
+
+.testStyle h1 {
+    color: #d60;
+}
+
+.testStyle h2 {
+    color: #f90;
+}
+
+.testStyle h3 {
+    color: #780;
+}
+
+.testStyle p {
+    color: #660;
+}
+
+.testStyle ul li,
+.testStyle ol li {
+    color: #450;
+}
+
+.testStyle a {
+    color: #310;
+    text-decoration: none;
+}
+
+.testStyle a:hover {
+    color: #ccc;
+}
+
+.testStyle code {
+    padding: 10px 5px;
+    background-color: #e0e0e0;
+}
 </style>
 
 <body>
@@ -41,13 +50,14 @@
 <script type="text/javascript" src="js/marked.min.js"></script>
 <script type="text/javascript" src="js/jquery.1.12.4.js"></script>
 <script type="text/javascript">
+/* include markdown data */
 $.ajax({
-	url:'testText/test.txt',
-	type: 'GET',
-	data:{},
-	success:function(result){
-		document.getElementById('test').innerHTML = marked(result);
-	}
+    url: 'testText/test.txt',
+    type: 'GET',
+    data: {},
+    success: function(result) {
+        document.getElementById('test').innerHTML = marked(result);
+    }
 });
 </script>
 

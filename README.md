@@ -1,4 +1,4 @@
-# It's a markdown test Sample
+# It's a markdown basic Sample
 # 標題一
 ## 標題二
 ### 標題三
@@ -41,7 +41,7 @@ ___斜體加粗___
 </code></pre>
 ---
 #超連結
-[超連結](www.google.com)
+[超連結](https://www.google.com/)
 <pre><code>
 [超連結](網址)
 </code></pre>
