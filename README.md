@@ -1,6 +1,7 @@
 # It's a markdown Sample
 
-`
+---
+
 	# An exhibit of Markdown
 
 	This note _demonstrates_ ***some*** of what [Markdown][1] is capable of doing.
@@ -85,4 +86,4 @@
 	  [3]: http://www.markitdown.net/
 	  [4]: http://daringfireball.net/projects/markdown/basics
 	  [5]: http://daringfireball.net/projects/markdown/syntax
-`
+---
