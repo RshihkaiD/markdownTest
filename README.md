@@ -27,9 +27,15 @@ _ 斜體 _
 * 清單二
 * 清單三
 <pre><code>
-	* 清單一
-	* 清單二
-	* 清單三
+* 清單一
+* 清單二
+* 清單三
+</code></pre>
+---
+#刪除號
+~~刪除號~~
+<pre><code>
+~~ 刪除號 ~~
 </code></pre>
 [test page(click me)](https://rshihkaid.github.io/markdownTest/)
 
