@@ -11,7 +11,28 @@
 	#### 標題四
 	##### 標題五
 
+2. 斜體
+# 斜體
+_斜體_
+	_斜體_
+
+3. 斜體加粗
+# 斜體加粗
+***斜體加粗***
+	***斜體加粗***
+
+4. 無數列清單
+# 無數列清單
+* 清單一
+* 清單二
+* 清單三
+	* 清單一
+	* 清單二
+	* 清單三
+
 [test page(click me)](https://rshihkaid.github.io/markdownTest/)
+
+以下為測試內容
 ---
 
 	# An exhibit of Markdown
@@ -92,10 +113,4 @@
 
 	There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
 
-
-	  [1]: http://daringfireball.net/projects/markdown/
-	  [2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-	  [3]: http://www.markitdown.net/
-	  [4]: http://daringfireball.net/projects/markdown/basics
-	  [5]: http://daringfireball.net/projects/markdown/syntax
 ---
