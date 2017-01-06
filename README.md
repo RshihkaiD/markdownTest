@@ -14,17 +14,17 @@
 > 。斜體
 #斜體
 _斜體_
-	```uml
+	<pre><code>
 	_斜體_
-	```
+	</code></pre>
 ---
 ---
 > 。斜體加粗
 #斜體加粗
 ***斜體加粗***
-	```uml
+	<pre><code>
 	***斜體加粗***
-	```
+	</code></pre>
 ---
 ---
 > 。無數列清單
@@ -32,11 +32,11 @@ _斜體_
 * 清單一
 * 清單二
 * 清單三
-	```uml
+	<pre><code>
 	* 清單一
 	* 清單二
 	* 清單三
-	```
+	</code></pre>
 ---
 ---
 [test page(click me)](https://rshihkaid.github.io/markdownTest/)
