@@ -58,18 +58,24 @@ ___斜體加粗___
 ---
 </code></pre>
 ---
-#列表
+#無序列表
 * 列表一
 * 列表二
 ```
 * 列表一
 * 列表二
+```
+#有序列表
+1. 列表一
+2. 列表二
+```
+1. 列表一
+2. 列表二
 ```
 ---
 [測試網址（點擊此連結）](https://rshihkaid.github.io/markdownTest/)
 
 以下為markdown的測試內容
-測試js出自[marked.js](https://github.com/chjj/marked)
 ---
 
 	# An exhibit of Markdown
@@ -151,3 +157,5 @@ ___斜體加粗___
 	There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
 
 ---
+
+測試js出自[marked.js](https://github.com/chjj/marked)
