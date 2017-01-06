@@ -1,4 +1,8 @@
-# It's a markdown Sample
+# It's a markdown test Sample
+1.標題一
+# 標題一
+	#標題一
+
 [test page(click me)](https://rshihkaid.github.io/markdownTest/)
 ---
 
