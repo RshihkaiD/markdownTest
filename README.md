@@ -45,8 +45,8 @@ _ 斜體 _
 <pre><code>
 ---
 </code></pre>
-
-[test page(click me)](https://rshihkaid.github.io/markdownTest/)
+---
+[測試網址（點擊此連結）](https://rshihkaid.github.io/markdownTest/)
 
 以下為測試內容
 ---
