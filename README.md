@@ -22,21 +22,30 @@ _ 斜體 _
 *** 斜體加粗 ***
 </code></pre>
 ---
-#無數列清單
-* 清單一
-* 清單二
-* 清單三
-<pre><code>
-* 清單一
-* 清單二
-* 清單三
-</code></pre>
----
 #刪除號
 ~~刪除號~~
 <pre><code>
 ~~ 刪除號 ~~
 </code></pre>
+---
+#超連結
+[超連結](www.google.com)
+<pre><code>
+[超連結](網址)
+</code></pre>
+---
+#程式碼
+`程式碼`
+<pre><code>
+`程式碼`
+</code></pre>
+---
+#水平線
+---
+<pre><code>
+---
+</code></pre>
+
 [test page(click me)](https://rshihkaid.github.io/markdownTest/)
 
 以下為測試內容
