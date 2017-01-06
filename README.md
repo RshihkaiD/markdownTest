@@ -12,27 +12,27 @@
 ---
 #斜體
 _斜體_
-	<pre><code>
-	_ 斜體 _
-	</code></pre>
+<pre><code>
+_ 斜體 _
+</code></pre>
 ---
 ---
 #斜體加粗
 ***斜體加粗***
-	<pre><code>
-	*** 斜體加粗 ***
-	</code></pre>
+<pre><code>
+*** 斜體加粗 ***
+</code></pre>
 ---
 ---
 #無數列清單
 * 清單一
 * 清單二
 * 清單三
-	<pre><code>
-	* 清單一
-	* 清單二
-	* 清單三
-	</code></pre>
+<pre><code>
+*  清單一
+*  清單二
+*  清單三
+</code></pre>
 [test page(click me)](https://rshihkaid.github.io/markdownTest/)
 
 以下為測試內容
